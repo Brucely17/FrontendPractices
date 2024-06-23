@@ -21,3 +21,6 @@ download from project readme
 #Use react-router-dom
 npm install react-router-dom
 wrap the router in main.jsx
+
+#Parralax
+npm install react-just-parallax
